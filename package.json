@@ -6,8 +6,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "@splidejs/react-splide": "^0.7.12",
+    "@splidejs/splide": "^4.1.4",
+    "axios": "^1.2.1",
+    "bootstrap": "^5.2.3",
     "next": "latest",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-axios": "^2.0.6",
+    "react-bootstrap": "^2.7.0",
+    "react-dom": "18.2.0",
+    "splide-nextjs": "^2.4.23"
   }
 }
